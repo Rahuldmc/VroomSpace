@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VroomSpace/static/css/main.07cfdd32.css",
+    "main.js": "/VroomSpace/static/js/main.513faced.js",
+    "static/media/drive.png": "/VroomSpace/static/media/drive.6bd20e182296ea68fb9b.png",
+    "static/media/logo.png": "/VroomSpace/static/media/logo.6b54d81e1a22bb247819.png",
+    "index.html": "/VroomSpace/index.html",
+    "main.07cfdd32.css.map": "/VroomSpace/static/css/main.07cfdd32.css.map",
+    "main.513faced.js.map": "/VroomSpace/static/js/main.513faced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07cfdd32.css",
+    "static/js/main.513faced.js"
+  ]
+}
